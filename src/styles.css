@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+}
+.titulo {
+  margin: 50px;
+  border: 2px;
+  padding: 25px;
+  background-color: deeppink;
+}
+
+.lista1 {
+  margin: 0px 0px 0px 0px;
+  border: 2px 0px 0px 0px;
+  padding: 5px 0px 0px 0px;
+  background-color: deeppink;
+}
+.producto1 {
+  font-weight: bold;
+  font-size-adjust: justify;
+}
+
+.lista2 {
+  margin: 0px 0px 0px 0px;
+  border: 0px 0px 0px 0px 0px;
+  padding: 50px 0px 0px 0px;
+  background-color: deeppink;
+}
+.producto2 {
+  font-weight: bold;
+}
+
+.lista3 {
+  margin: 0px 250px 0px 0px;
+  border: 0px;
+  padding: 5px;
+  background-color: deeppink;
+}
+.producto3 {
+  font-weight: bold;
+}
